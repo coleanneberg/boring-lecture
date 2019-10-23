@@ -1,0 +1,13 @@
+h2.intro {
+  color: yellow;
+  font-style: oblique;
+}
+
+p.intro {
+  font-style: normal;
+  font-weight: lighter;
+}
+
+img.intro {
+  width: 75%;
+}
